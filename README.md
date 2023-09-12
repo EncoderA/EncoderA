@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encodera&label=Profile%20views&color=0e75b6&style=flat" alt="encodera" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encodera" alt="encodera" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ankushkhairnar" target="blank"><img src="https://img.shields.io/twitter/follow/ankushkhairnar?logo=twitter&style=for-the-badge" alt="ankushkhairnar" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack And AWS**
