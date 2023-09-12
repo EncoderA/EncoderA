@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack and AWS Cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encodera&label=Profile%20views&color=0e75b6&style=flat" alt="encodera" /> </p>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images.app.goo.gl/oHxDtK6Wv2A9vqKPA)">
 - 🌱 I’m currently learning **MERN Stack And AWS**
 
 - 📫 How to reach me **ankushkhairnr12@gmail.com**
