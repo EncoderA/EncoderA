@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning **MERN Stack And AWS**
 
 - 📫 How to reach me **ankushkhairnr12@gmail.com**
-<a href="https://ankushkhairnar.vercel.app/" target="blank"><p>Portfolio</p></a>
+<a href="https://ankushkhairnar.vercel.app/" target="_blank" rel="noopener noreferrer">
+  Portfolio
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
