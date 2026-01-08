@@ -13,9 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **MERN Stack & AWS**
 - 💻 Passionate about building scalable web applications
-- 🧠 Actively practicing **DSA & LeetCode**
 - 🎯 Focused on clean UI, performance, and developer experience
 
 📫 **Email:** `ankushkhairnr12@gmail.com`  
