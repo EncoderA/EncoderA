@@ -58,9 +58,3 @@
 
 ### ✨ Quote I Follow
 > *“First, solve the problem. Then, write the code.!”*
-
-⭐ **If you like my work, consider starring my repositories!!**
-
-This are the changes for Testing.
-
-..
